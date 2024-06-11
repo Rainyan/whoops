@@ -1,0 +1,2 @@
+GitHub history rewrite test.
+

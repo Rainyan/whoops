@@ -1,3 +1,3 @@
 GitHub history rewrite test.
 
-Foo Bar
+Foo Bar Baz
